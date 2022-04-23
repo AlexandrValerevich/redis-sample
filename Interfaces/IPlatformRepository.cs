@@ -1,5 +1,3 @@
-using ReadiAPI.Models;
-
 namespace ReadiAPI.Interfaces;
 
 public interface IPlatformRepository
